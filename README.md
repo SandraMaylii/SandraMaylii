@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Sandra Mayli Rodríguez Gorbalán 👩‍💻</h1>
+<h1 align="center">¡Hola! Soy Sandra Mayli Rodríguez Gorbalan 👩‍💻</h1>
 <p align="center">Estudiante de Ingeniería de Computación y Sistemas | Desarrollo Web | Inteligencia Artificial Educativa</p>
 
 ---
@@ -12,13 +12,13 @@ Actualmente desarrollo soluciones web y educativas orientadas a la innovación y
 
 ## 🛠️ Habilidades Técnicas
 
-- **Frontend:** React, HTML, CSS, JavaScript  
+- **Frontend:** React, HTML, CSS
 - **Backend:** FastAPI, Node.js (básico)  
-- **Base de datos:** PostgreSQL, SQL Server, MySQL  
-- **Data & Visualización:** Python, Power BI  
+- **Base de datos:** SQL Server, MySQL  
+- **Data y Visualización:** Python, Power BI  
 - **Control de versiones:** Git, GitHub  
-- **Otros:** Metodologías ágiles, trabajo colaborativo  
-- **Idiomas:** Español nativo, Inglés intermedio  
+- **Otros:** Metodologías ágiles como SCRUM
+- **Idiomas:** Español - Inglés intermedio  
 
 ---
 
@@ -51,7 +51,7 @@ Usa modelos CNN y keypoints con MediaPipe para predecir letras y sugerir palabra
 
 - 📧 srodriguezg8@upao.edu.pe  
 - 📍 Trujillo – Perú  
-- 💼 *(LinkedIn o portafolio si deseas agregarlo)*
+- 💼 (https://www.linkedin.com/in/sandra-mayli-rodriguez-gorbalan-998041260/) 
 
 ---
 
